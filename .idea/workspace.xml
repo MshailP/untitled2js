@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="583d9e42-e163-4032-b54d-39b1ebddfea7" name="Changes" comment="add lesson1js">
-      <change afterPath="$PROJECT_DIR$/lesson2_js/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2_js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3_js/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -60,6 +59,8 @@
       <workItem from="1667931777607" duration="606000" />
       <workItem from="1667932392136" duration="43000" />
       <workItem from="1667932747591" duration="4170000" />
+      <workItem from="1668012959629" duration="1987000" />
+      <workItem from="1668063466505" duration="9036000" />
     </task>
     <task id="LOCAL-00001" summary="add lesson1js">
       <created>1667507175378</created>
